@@ -1,5 +1,6 @@
 <html>
 	<head>
+        <script src="js/jquery.js"></script>
 		<script src="js/jquery.simpleWeather.js"></script>
 		<script>
 		$(document).ready(function() {
