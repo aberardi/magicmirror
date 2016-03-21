@@ -129,14 +129,14 @@ i {
   font-size : 45px;
 }
 
-#map
+#headline
 {
   position: absolute;
   top:90%;
   width: 200px;
   height: 100px;
 }
-#geoLocation
+#headline
 {
   position: absolute;
   top:90%;
