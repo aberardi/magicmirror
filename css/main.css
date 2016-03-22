@@ -117,8 +117,8 @@ i {
 #time 
 {
     position: absolute;
-    right: -200px;
-    width: 500px;
+    right: 0px;
+    width: 300px;
     color:#fff;
     vertical-align: top;
     font-size: 30px;
@@ -127,16 +127,6 @@ i {
 #timestamp
 {
   font-size : 45px;
-}
-#date
-{
-    position: absolute;
-    right: -100px;
-    width: 500px;
-    color:#fff;
-    vertical-align: top;
-    font-size: 30px;
-    padding-bottom: 2px;
 }
 
 #headline
